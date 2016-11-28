@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fscore/Reader.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/DropPane.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/NewTextListener.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/DropListener.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fscore/Writer.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/NewFormDialog.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/AddFilePanel.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/DropFrame.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fscore/Constants.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/DropFilePanel.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fscore/Encryptor.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/ClipboardPanel.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/NewTextDialog.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/DnDListener.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fscore/BigFileEncryptor.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/NewFormListener.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/NewFileDialog.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/AddDroppedFile.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/CommonComponents.java</file>
+            <file>file:/Users/artem/Documents/NetBeansProjects/FastSecret/src/fsgui/TextPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
